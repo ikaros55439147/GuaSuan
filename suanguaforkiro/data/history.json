@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "20251007023342972307",
+      "timestamp": "2025-10-07T02:33:42.972307",
+      "question": "測試問題：明日運勢如何？",
+      "original_hexagram_name": "訟",
+      "original_hexagram_number": 6,
+      "has_changes": true,
+      "changed_hexagram_name": "履",
+      "changed_hexagram_number": 10,
+      "result_summary": "訟卦 → 履卦"
+    },
+    {
+      "id": "20251007023407358582",
+      "timestamp": "2025-10-07T02:34:07.358582",
+      "question": "今年事業運勢如何？",
+      "original_hexagram_name": "井",
+      "original_hexagram_number": 48,
+      "has_changes": false,
+      "changed_hexagram_name": null,
+      "changed_hexagram_number": null,
+      "result_summary": "井卦"
+    },
+    {
+      "id": "20251007023445653449",
+      "timestamp": "2025-10-07T02:34:45.653449",
+      "question": "今年事業運勢如何？",
+      "original_hexagram_name": "坤",
+      "original_hexagram_number": 2,
+      "has_changes": true,
+      "changed_hexagram_name": "解",
+      "changed_hexagram_number": 40,
+      "result_summary": "坤卦 → 解卦"
+    },
+    {
+      "id": "20251007031016463361",
+      "timestamp": "2025-10-07T03:10:16.463361",
+      "question": "我的運勢如何",
+      "original_hexagram_name": "損",
+      "original_hexagram_number": 41,
+      "has_changes": true,
+      "changed_hexagram_name": "豫",
+      "changed_hexagram_number": 16,
+      "result_summary": "損卦 → 豫卦"
+    }
+  ]
+}
